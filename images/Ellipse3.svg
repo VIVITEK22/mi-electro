@@ -1,0 +1,15 @@
+<svg width="1424.000000" height="1419.000000" viewBox="0 0 1424 1419" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<filter id="filter_2_124_dd" x="0.000000" y="-0.999512" width="1423.819580" height="1419.463867" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+			<feGaussianBlur stdDeviation="93.3333" result="effect_layerBlur_1"/>
+		</filter>
+	</defs>
+	<g opacity="0.200000" filter="url(#filter_2_124_dd)">
+		<ellipse id="Ellipse 31" rx="429.732056" ry="431.909790" transform="matrix(-4.37114e-08 -1 1 -4.37114e-08 711.91 708.732)" fill="#FC7C1F" fill-opacity="1.000000"/>
+	</g>
+</svg>
